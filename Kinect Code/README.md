@@ -1,6 +1,6 @@
 # Kinect Yoga Recording Application
 
-This is a program (version2.py) that allows you to record different Yoga postures, with the help of Microsoft Kinect V2. Each recording is saved a folder named with the time of creation and in that folder the following data is saved:
+This is a program (version2.py) that allows you to record different Yoga postures, with the help of Microsoft Kinect V2. Each recording is saved in a folder named with the time of creation and in that folder the following data gets saved:
 * color.avi - The rgb video of the recording
 * depth.avi - The depth video feed from the kinect
 * joints.csv - The skeletal joint coordinates that are detected by the kinect (Microsoft API)
