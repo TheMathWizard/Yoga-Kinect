@@ -7,10 +7,11 @@ skeletons.py - Old analysis code
 
 ## Prerequisites
 
-The code runs with Python 3, so make sure you have latest version installed before testing. Several libraries are used in the code, most important of which are:
+The code runs with Python 3, so make sure you have latest version installed before testing. This program has several python library dependencies, most important of which are:
 
 * OpenCV 3 with ffmpeg
-* 
+* Matplotlib 
+* NumPy
 
 ## Conversion to an Application
 
