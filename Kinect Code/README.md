@@ -27,6 +27,6 @@ Please visit https://github.com/Kinect/PyKinect2 for more dependencies.
 
 If you want to deploy the program as an executable application that can be directly downloaded by anyone and used, follow these instuction:
 
-* Successfully run the program in an operating system for which you want to create the executable application
+* Successfully run the program in an operating system for which you want to create the executable application.
 * Install PyInstaller (pip install pyinstaller)
-* Run 'pyinstaller version2.py' to create the application
+* Run 'pyinstaller version2.py' to create the application. Refer to http://www.pyinstaller.org/
