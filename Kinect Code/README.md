@@ -29,4 +29,4 @@ If you want to deploy the program as an executable application that can be direc
 
 * Successfully run the program in an operating system for which you want to create the executable application.
 * Install PyInstaller (pip install pyinstaller)
-* Run 'pyinstaller version2.py' to create the application. Refer to http://www.pyinstaller.org/
+* Run 'pyinstaller version2.py' to generate the executable. Refer to http://www.pyinstaller.org/
