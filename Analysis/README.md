@@ -1,9 +1,11 @@
 # Skeletal Joints Analysis from the Microsoft Kinect
 
-tracking2.py - The main program for smoothing, alignment & error calculation
-drawing.py - To draw skeletons
-compare.py - To compare 2 videos by superimposing one on the other
-skeletons.py - Old analysis code
+* skeleton.py - program for generating videos and joint smoothing
+* align.py - align one yoga exercise to another master/reference frame
+* Segment/segment.py - segment the start and end of posture
+* Segment/posture_data.py - print data about the posture
+
+Further help can be seen using the "--help" flag of each application. 
 
 ## Prerequisites
 
