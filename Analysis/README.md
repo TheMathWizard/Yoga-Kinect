@@ -14,6 +14,7 @@ The code runs with Python 3, so make sure you have latest version installed befo
 * OpenCV 3 with ffmpeg
 * Matplotlib 
 * NumPy
+* Scipy
 
 ## Conversion to an Application
 
