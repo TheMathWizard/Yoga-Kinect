@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-FRAME_DIMS = (1000,1600,3)
+FRAME_DIMS = (1080,1920,3)
 
 
 def drawline(frame, list, joint1, joint2):
